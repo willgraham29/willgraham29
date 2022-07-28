@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/patrick-rigg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-rigg-638133b9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/william-graham-15670684/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/william-graham-15670684/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
