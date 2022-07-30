@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: [Project Drowsy](https://github.com/willgraham29/project_drowsy) - an app to detect driver drowsiness
 
-- 📫 How to reach me: **w.m.graham29g@gmail.com**
+- 📫 How to reach me: **w.m.graham29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
